@@ -48,7 +48,7 @@ data was provided by pwc
 
 ## Data visualization 
 
-![Alt](
+![Alt](Screenshot_20241110_143307.jpg)
 
 ## Data Analysis
 
